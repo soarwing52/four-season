@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/four-season/static/css/main.01dbc6e8.css",
-    "main.js": "/four-season/static/js/main.084f69da.js",
+    "main.js": "/four-season/static/js/main.9d34fabb.js",
     "static/js/787.6fb5bec9.chunk.js": "/four-season/static/js/787.6fb5bec9.chunk.js",
     "static/media/front.jpg": "/four-season/static/media/front.399fbee490a973c55580.jpg",
     "static/media/4.jpg": "/four-season/static/media/4.682bb2d097c7b9c84b52.jpg",
@@ -14,11 +14,11 @@
     "static/media/logo_light_512.png": "/four-season/static/media/logo_light_512.edb01d90347f288233ba.png",
     "index.html": "/four-season/index.html",
     "main.01dbc6e8.css.map": "/four-season/static/css/main.01dbc6e8.css.map",
-    "main.084f69da.js.map": "/four-season/static/js/main.084f69da.js.map",
+    "main.9d34fabb.js.map": "/four-season/static/js/main.9d34fabb.js.map",
     "787.6fb5bec9.chunk.js.map": "/four-season/static/js/787.6fb5bec9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.01dbc6e8.css",
-    "static/js/main.084f69da.js"
+    "static/js/main.9d34fabb.js"
   ]
 }
