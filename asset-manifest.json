@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/four-season/static/css/main.01dbc6e8.css",
+    "main.js": "/four-season/static/js/main.084f69da.js",
+    "static/js/787.6fb5bec9.chunk.js": "/four-season/static/js/787.6fb5bec9.chunk.js",
+    "static/media/front.jpg": "/four-season/static/media/front.399fbee490a973c55580.jpg",
+    "static/media/4.jpg": "/four-season/static/media/4.682bb2d097c7b9c84b52.jpg",
+    "static/media/5.jpg": "/four-season/static/media/5.10e7012c4dc7bce468eb.jpg",
+    "static/media/1.jpg": "/four-season/static/media/1.b49f9b7c5758dbf64c1e.jpg",
+    "static/media/3.jpg": "/four-season/static/media/3.c69dbc9ae1ed5b8f9840.jpg",
+    "static/media/2.jpg": "/four-season/static/media/2.b91aa5026b3bc0445faa.jpg",
+    "static/media/back.jpg": "/four-season/static/media/back.2255e1dbe8cf9f87b21f.jpg",
+    "static/media/logo_512.png": "/four-season/static/media/logo_512.c642c866dbae51e04fc5.png",
+    "static/media/logo_light_512.png": "/four-season/static/media/logo_light_512.edb01d90347f288233ba.png",
+    "index.html": "/four-season/index.html",
+    "main.01dbc6e8.css.map": "/four-season/static/css/main.01dbc6e8.css.map",
+    "main.084f69da.js.map": "/four-season/static/js/main.084f69da.js.map",
+    "787.6fb5bec9.chunk.js.map": "/four-season/static/js/787.6fb5bec9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01dbc6e8.css",
+    "static/js/main.084f69da.js"
+  ]
+}
